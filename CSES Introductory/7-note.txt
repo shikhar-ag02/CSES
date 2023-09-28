@@ -1,0 +1,12 @@
+for k>=4
+
+type of cells------no of such cells------multiplying factor
+
+i. 2 sides completely block-----4------k^2-3
+ii. 1 side completely block and gap of 1 on another------8------k^2-4
+iii. 1 side completely block------4*(k-4)------k^2-5
+iv. Gap of 1 on 2 sides------4------k^2-5
+v. gap of 1 on 1 side------4*(k-4)-----k^2-7
+vi. no restrictions from any side------(k-4)^2------k^2-9
+
+final ans= (sum of all 6 above)/2 (to remove duplicacy)

@@ -1,0 +1,1 @@
+{"name":"Local: Distance_k","url":"/home/shimki/Desktop/CSES/Trees/Distance_k.cpp","tests":[{"id":1695583448470,"input":"5 2\n1 2\n2 3\n3 4\n2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shimki/Desktop/CSES/Trees/Distance_k.cpp","group":"local","local":true}

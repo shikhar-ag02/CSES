@@ -1,0 +1,1 @@
+{"name":"Local: Tree3","url":"/home/shimki/Desktop/CSES/Trees/Tree3.cpp","tests":[{"id":1695481820575,"input":"14\n1 2\n1 3\n3 4\n3 5\n4 6\n6 9\n6 8\n6 7\n7 10\n5 11\n11 12\n12 14\n11 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shimki/Desktop/CSES/Trees/Tree3.cpp","group":"local","local":true}
